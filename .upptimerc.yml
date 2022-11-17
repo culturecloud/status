@@ -1,26 +1,44 @@
 owner: culturecloud
 repo: status
+user-agent: culturecloud
 
 sites:
   - name: Blog Site
     url: https://culturecloud.gq
+    method: GET
     maxResponseTime: 5000
   - name: Journal
     url: https://journal.culturecloud.gq
+    method: GET
     maxResponseTime: 5000
   - name: Mega Index
     url: https://index.culturecloud.gq
+    method: GET
     headers:
       - "Authorization: Basic $AUTH"
-    maxResponseTime: 5000
+    maxResponseTime: 15000
   - name: Tachidesk Server
     url: https://tachidesk.culturecloud.gq
+    method: GET
     headers:
       - "Authorization: Basic $AUTH"
-    maxResponseTime: 5000
+    maxResponseTime: 15000
   - name: DDL Service
     url: https://dl.culturecloud.gq
-    maxResponseTime: 5000
+    method: GET
+    maxResponseTime: 15000
+  - name: Telegram Index
+    url: https://tgdex.culturecloud.gq
+    method: GET
+    
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 
 status-website:
   theme: dark
