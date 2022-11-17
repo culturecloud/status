@@ -40,19 +40,19 @@
     "url": "https://index.culturecloud.gq",
     "icon": "https://icons.duckduckgo.com/ip3/index.culturecloud.gq.ico",
     "slug": "mega-index",
-    "status": "down",
-    "uptime": "91.64%",
-    "uptimeDay": "91.64%",
-    "uptimeWeek": "91.64%",
-    "uptimeMonth": "91.64%",
-    "uptimeYear": "91.64%",
-    "time": 1028,
-    "timeDay": 1028,
-    "timeWeek": 1028,
-    "timeMonth": 1028,
-    "timeYear": 1028,
+    "status": "up",
+    "uptime": "90.84%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "90.84%",
+    "uptimeMonth": "90.84%",
+    "uptimeYear": "90.84%",
+    "time": 1036,
+    "timeDay": 1036,
+    "timeWeek": 1036,
+    "timeMonth": 1036,
+    "timeYear": 1036,
     "dailyMinutesDown": {
-      "2022-11-17": 67
+      "2022-11-17": 74
     }
   },
   {
@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tachidesk.culturecloud.gq.ico",
     "slug": "tachidesk-server",
     "status": "up",
-    "uptime": "82.99%",
-    "uptimeDay": "82.99%",
-    "uptimeWeek": "82.99%",
-    "uptimeMonth": "82.99%",
-    "uptimeYear": "82.99%",
+    "uptime": "83.17%",
+    "uptimeDay": "83.17%",
+    "uptimeWeek": "83.17%",
+    "uptimeMonth": "83.17%",
+    "uptimeYear": "83.17%",
     "time": 2327,
     "timeDay": 2327,
     "timeWeek": 2327,
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dl.culturecloud.gq.ico",
     "slug": "ddl-service",
     "status": "down",
-    "uptime": "77.25%",
-    "uptimeDay": "77.25%",
-    "uptimeWeek": "77.25%",
-    "uptimeMonth": "77.25%",
-    "uptimeYear": "77.25%",
+    "uptime": "76.41%",
+    "uptimeDay": "76.41%",
+    "uptimeWeek": "76.41%",
+    "uptimeMonth": "76.41%",
+    "uptimeYear": "76.41%",
     "time": 719,
     "timeDay": 719,
     "timeWeek": 719,
     "timeMonth": 719,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2022-11-17": 181
+      "2022-11-17": 190
     }
   },
   {
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 208
+      "2022-11-17": 217
     }
   }
 ]
