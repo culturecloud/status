@@ -22,19 +22,19 @@
     "url": "https://index.culturecloud.gq",
     "icon": "https://icons.duckduckgo.com/ip3/index.culturecloud.gq.ico",
     "slug": "mega-index",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 2342,
-    "timeDay": 2342,
-    "timeWeek": 2342,
-    "timeMonth": 2342,
-    "timeYear": 2342,
+    "status": "up",
+    "uptime": "87.81%",
+    "uptimeDay": "87.81%",
+    "uptimeWeek": "87.81%",
+    "uptimeMonth": "87.81%",
+    "uptimeYear": "87.81%",
+    "time": 1950,
+    "timeDay": 1950,
+    "timeWeek": 1950,
+    "timeMonth": 1950,
+    "timeYear": 1950,
     "dailyMinutesDown": {
-      "2022-11-17": 0
+      "2022-11-17": 6
     }
   },
   {
