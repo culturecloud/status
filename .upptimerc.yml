@@ -29,4 +29,8 @@ status-website:
   logoUrl: https://cdn.jsdelivr.net/gh/culturecloud/static-resources/images/culturecloud.webp
   name: Culture Cloud
   # introTitle: ""
-  # introMessage: ""
+  introMessage: "This is the status page for various projects we'll be working on. You can contact us at [culturecloud@protonmail.com](mailto:culturecloud@protonmail.com.)"
+  navbar:
+    - title: Blog
+      href: https://culturecloud.gq
+
