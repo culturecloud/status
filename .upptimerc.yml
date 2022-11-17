@@ -29,9 +29,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-commitMessages:
-  commitAuthorName: "Culture Cloud"
-  commitAuthorEmail: "admin@culturecloud.gq"
-
-user-agent: culturecloud
