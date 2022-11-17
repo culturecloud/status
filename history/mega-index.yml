@@ -1,7 +1,7 @@
 url: https://index.culturecloud.gq
-status: up
-code: 200
-responseTime: 764
-lastUpdated: 2022-11-17T13:30:36.507Z
+status: down
+code: 500
+responseTime: 610
+lastUpdated: 2022-11-17T14:48:41.393Z
 startTime: Thu Nov 17 2022 08:21:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
