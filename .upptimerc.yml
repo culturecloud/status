@@ -5,31 +5,27 @@ user-agent: culturecloud
 sites:
   - name: Blog Site
     url: https://culturecloud.gq
-    method: GET
-    maxResponseTime: 5000
   - name: Journal
     url: https://journal.culturecloud.gq
-    method: GET
-    maxResponseTime: 5000
   - name: Mega Index
     url: https://index.culturecloud.gq
-    method: GET
-    headers:
-      - "Authorization: Basic $AUTH"
-    maxResponseTime: 15000
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Tachidesk Server
     url: https://tachidesk.culturecloud.gq
-    method: GET
-    headers:
-      - "Authorization: Basic $AUTH"
-    maxResponseTime: 15000
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: DDL Service
     url: https://dl.culturecloud.gq
-    method: GET
-    maxResponseTime: 15000
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Telegram Index
     url: https://tgdex.culturecloud.gq
-    method: GET
+    expectedStatusCodes:
+      - 200
     
 workflowSchedule:
   graphs: "0 0 * * *"
