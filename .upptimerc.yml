@@ -5,6 +5,8 @@ repo: status # The name of this repository
 sites:
   - name: Blog Site
     url: https://culturecloud.gq
+  - name: Journal
+    url: https://journal.culturecloud.gq
   - name: Mega Index
     url: https://index.culturecloud.gq
     headers:
