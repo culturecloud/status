@@ -22,18 +22,20 @@
     "url": "https://index.culturecloud.gq",
     "icon": "https://icons.duckduckgo.com/ip3/index.culturecloud.gq.ico",
     "slug": "mega-index",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 815,
-    "timeDay": 815,
-    "timeWeek": 815,
-    "timeMonth": 815,
-    "timeYear": 815,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 2342,
+    "timeDay": 2342,
+    "timeWeek": 2342,
+    "timeMonth": 2342,
+    "timeYear": 2342,
+    "dailyMinutesDown": {
+      "2022-11-17": 0
+    }
   },
   {
     "name": "Tachidesk Server",
