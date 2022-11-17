@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/streamgram-bot.culturecloud.repl.co.ico",
     "slug": "streamgram-bot",
     "status": "down",
-    "uptime": "63.65%",
-    "uptimeDay": "63.65%",
-    "uptimeWeek": "63.65%",
-    "uptimeMonth": "63.65%",
-    "uptimeYear": "63.65%",
-    "time": 4841,
-    "timeDay": 4841,
-    "timeWeek": 4841,
-    "timeMonth": 4841,
-    "timeYear": 4841,
+    "uptime": "1.79%",
+    "uptimeDay": "1.79%",
+    "uptimeWeek": "1.79%",
+    "uptimeMonth": "1.79%",
+    "uptimeYear": "1.79%",
+    "time": 4793,
+    "timeDay": 4793,
+    "timeWeek": 4793,
+    "timeMonth": 4793,
+    "timeYear": 4793,
     "dailyMinutesDown": {
-      "2022-11-17": 0
+      "2022-11-17": 14
     }
   }
 ]
