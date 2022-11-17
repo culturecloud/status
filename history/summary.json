@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/index.culturecloud.gq.ico",
     "slug": "mega-index",
     "status": "down",
-    "uptime": "96.79%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "96.79%",
-    "uptimeYear": "96.79%",
+    "uptime": "94.06%",
+    "uptimeDay": "94.06%",
+    "uptimeWeek": "94.06%",
+    "uptimeMonth": "94.06%",
+    "uptimeYear": "94.06%",
     "time": 1088,
     "timeDay": 1088,
     "timeWeek": 1088,
     "timeMonth": 1088,
     "timeYear": 1088,
     "dailyMinutesDown": {
-      "2022-11-17": 24
+      "2022-11-17": 46
     }
   },
   {
@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tachidesk.culturecloud.gq.ico",
     "slug": "tachidesk-server",
     "status": "up",
-    "uptime": "81.70%",
-    "uptimeDay": "81.70%",
-    "uptimeWeek": "81.70%",
-    "uptimeMonth": "81.70%",
-    "uptimeYear": "81.70%",
+    "uptime": "82.22%",
+    "uptimeDay": "82.22%",
+    "uptimeWeek": "82.22%",
+    "uptimeMonth": "82.22%",
+    "uptimeYear": "82.22%",
     "time": 2327,
     "timeDay": 2327,
     "timeWeek": 2327,
@@ -80,12 +80,12 @@
     "url": "https://dl.culturecloud.gq",
     "icon": "https://icons.duckduckgo.com/ip3/dl.culturecloud.gq.ico",
     "slug": "ddl-service",
-    "status": "up",
-    "uptime": "78.23%",
-    "uptimeDay": "78.23%",
-    "uptimeWeek": "78.23%",
-    "uptimeMonth": "78.23%",
-    "uptimeYear": "78.23%",
+    "status": "down",
+    "uptime": "78.83%",
+    "uptimeDay": "78.83%",
+    "uptimeWeek": "78.83%",
+    "uptimeMonth": "78.83%",
+    "uptimeYear": "78.83%",
     "time": 725,
     "timeDay": 725,
     "timeWeek": 725,
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 152
+      "2022-11-17": 174
     }
   }
 ]
