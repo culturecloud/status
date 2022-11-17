@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/index.culturecloud.gq.ico",
     "slug": "mega-index",
     "status": "up",
-    "uptime": "96.30%",
-    "uptimeDay": "96.30%",
-    "uptimeWeek": "96.30%",
-    "uptimeMonth": "96.30%",
-    "uptimeYear": "96.30%",
+    "uptime": "96.42%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "96.42%",
+    "uptimeMonth": "96.42%",
+    "uptimeYear": "96.42%",
     "time": 1088,
     "timeDay": 1088,
     "timeWeek": 1088,
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tachidesk.culturecloud.gq.ico",
     "slug": "tachidesk-server",
     "status": "down",
-    "uptime": "92.06%",
-    "uptimeDay": "92.06%",
-    "uptimeWeek": "92.06%",
-    "uptimeMonth": "92.06%",
-    "uptimeYear": "92.06%",
+    "uptime": "89.23%",
+    "uptimeDay": "89.23%",
+    "uptimeWeek": "89.23%",
+    "uptimeMonth": "89.23%",
+    "uptimeYear": "89.23%",
     "time": 1058,
     "timeDay": 1058,
     "timeWeek": 1058,
     "timeMonth": 1058,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2022-11-17": 51
+      "2022-11-17": 71
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://dl.culturecloud.gq",
     "icon": "https://icons.duckduckgo.com/ip3/dl.culturecloud.gq.ico",
     "slug": "ddl-service",
-    "status": "down",
-    "uptime": "81.55%",
-    "uptimeDay": "81.55%",
-    "uptimeWeek": "81.55%",
-    "uptimeMonth": "81.55%",
-    "uptimeYear": "81.55%",
-    "time": 709,
-    "timeDay": 709,
-    "timeWeek": 709,
-    "timeMonth": 709,
-    "timeYear": 709,
+    "status": "up",
+    "uptime": "79.06%",
+    "uptimeDay": "79.06%",
+    "uptimeWeek": "79.06%",
+    "uptimeMonth": "79.06%",
+    "uptimeYear": "79.06%",
+    "time": 716,
+    "timeDay": 716,
+    "timeWeek": 716,
+    "timeMonth": 716,
+    "timeYear": 716,
     "dailyMinutesDown": {
-      "2022-11-17": 118
+      "2022-11-17": 138
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tgdex.culturecloud.gq.ico",
     "slug": "telegram-index",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-17": 52
+      "2022-11-17": 72
     }
   }
 ]
