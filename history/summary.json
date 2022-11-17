@@ -1,22 +1,22 @@
 [
   {
     "name": "streamgram-bot",
-    "url": "https://streamgram-bot.culturecloud.repl.co",
-    "icon": "https://icons.duckduckgo.com/ip3/streamgram-bot.culturecloud.repl.co.ico",
+    "url": "https://streamgram.culturecloud.repl.co",
+    "icon": "https://icons.duckduckgo.com/ip3/streamgram.culturecloud.repl.co.ico",
     "slug": "streamgram-bot",
-    "status": "down",
-    "uptime": "1.79%",
-    "uptimeDay": "1.79%",
-    "uptimeWeek": "1.79%",
-    "uptimeMonth": "1.79%",
-    "uptimeYear": "1.79%",
-    "time": 4793,
-    "timeDay": 4793,
-    "timeWeek": 4793,
-    "timeMonth": 4793,
-    "timeYear": 4793,
+    "status": "up",
+    "uptime": "1.87%",
+    "uptimeDay": "1.87%",
+    "uptimeWeek": "1.87%",
+    "uptimeMonth": "1.87%",
+    "uptimeYear": "1.87%",
+    "time": 3615,
+    "timeDay": 3615,
+    "timeWeek": 3615,
+    "timeMonth": 3615,
+    "timeYear": 3615,
     "dailyMinutesDown": {
-      "2022-11-17": 14
+      "2022-11-17": 15
     }
   }
 ]
