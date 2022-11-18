@@ -82,11 +82,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dl.culturecloud.gq.ico",
     "slug": "ddl-service",
     "status": "up",
-    "uptime": "81.76%",
-    "uptimeDay": "81.76%",
-    "uptimeWeek": "81.76%",
-    "uptimeMonth": "81.76%",
-    "uptimeYear": "81.76%",
+    "uptime": "81.77%",
+    "uptimeDay": "81.77%",
+    "uptimeWeek": "81.77%",
+    "uptimeMonth": "81.77%",
+    "uptimeYear": "81.77%",
     "time": 670,
     "timeDay": 670,
     "timeWeek": 670,
@@ -113,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-18": 256,
+      "2022-11-18": 257,
       "2022-11-17": 351
     }
   }
