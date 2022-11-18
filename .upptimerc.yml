@@ -9,20 +9,16 @@ sites:
     url: https://journal.culturecloud.gq
   - name: Mega Index
     url: https://index.culturecloud.gq
-    expectedStatusCodes:
-      - 401
+    headers:
+      - "Authorization: Basic $AUTH"
   - name: Tachidesk Server
     url: https://tachidesk.culturecloud.gq
-    expectedStatusCodes:
-      - 401
+    headers:
+      - "Authorization: Basic $AUTH"
   - name: DDL Service
     url: https://dl.culturecloud.gq
-    expectedStatusCodes:
-      - 200
   - name: Telegram Index
     url: https://tgdex.culturecloud.gq
-    expectedStatusCodes:
-      - 200
     
 workflowSchedule:
   uptime: "*/5 * * * *"
