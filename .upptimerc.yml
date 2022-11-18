@@ -10,30 +10,21 @@ sites:
   - name: Mega Index
     url: https://index.culturecloud.gq
     expectedStatusCodes:
-      - 200
       - 401
   - name: Tachidesk Server
     url: https://tachidesk.culturecloud.gq
     expectedStatusCodes:
-      - 200
       - 401
   - name: DDL Service
     url: https://dl.culturecloud.gq
     expectedStatusCodes:
       - 200
-      - 401
   - name: Telegram Index
     url: https://tgdex.culturecloud.gq
     expectedStatusCodes:
       - 200
     
 workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
   uptime: "*/5 * * * *"
 
 status-website:
