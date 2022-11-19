@@ -3,7 +3,7 @@ repo: status
 user-agent: culturecloud
 
 sites:
-  - name: Blog Site
+  - name: Culture Cloud Blog
     url: https://culturecloud.gq
     maxResponseTime: 5000
   - name: Journal
