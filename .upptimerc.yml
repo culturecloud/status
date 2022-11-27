@@ -9,22 +9,22 @@ sites:
   - name: Journal
     url: https://journal.culturecloud.gq
     maxResponseTime: 5000
-  - name: Mega Index
-    url: https://index.culturecloud.gq
-    maxResponseTime: 60000
+  - name: Drive Index
+    url: https://drive.culturecloud.gq
+    maxResponseTime: 5000
     headers:
       - "Authorization: Basic $AUTH"
   - name: Tachidesk Server
     url: https://tachidesk.culturecloud.gq
-    maxResponseTime: 60000
+    maxResponseTime: 5000
     headers:
       - "Authorization: Basic $AUTH"
   - name: DDL Service
     url: https://dl.culturecloud.gq
-    maxResponseTime: 60000
+    maxResponseTime: 5000
   - name: Telegram Index
     url: https://tgdex.culturecloud.gq
-    maxResponseTime: 60000
+    maxResponseTime: 5000
     
 workflowSchedule:
   uptime: "*/5 * * * *"
