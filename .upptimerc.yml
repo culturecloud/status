@@ -27,7 +27,7 @@ sites:
     maxResponseTime: 5000
     
 workflowSchedule:
-  uptime: "*/5 * * * *"
+  uptime: "*/15 * * * *"
 
 status-website:
   theme: dark
