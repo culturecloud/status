@@ -1,7 +1,7 @@
 url: https://tgdex.culturecloud.gq
-status: down
+status: degraded
 code: 502
-responseTime: 2546
-lastUpdated: 2023-01-03T08:23:27.209Z
+responseTime: 11361
+lastUpdated: 2023-01-03T08:52:50.263Z
 startTime: Thu Nov 17 2022 18:08:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
