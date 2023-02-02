@@ -6,19 +6,9 @@ sites:
   - name: Culture Cloud Blog
     url: https://culturecloud.gq
     maxResponseTime: 5000
-  - name: Journal
+  - name: Personal Journal
     url: https://journal.culturecloud.gq
     maxResponseTime: 5000
-  - name: Drive Index
-    url: https://drive.culturecloud.gq
-    maxResponseTime: 5000
-    headers:
-      - "Authorization: Basic $AUTH"
-  - name: Tachidesk Server
-    url: https://tachidesk.culturecloud.gq
-    maxResponseTime: 5000
-    headers:
-      - "Authorization: Basic $AUTH"
   - name: DDL Service
     url: https://dl.culturecloud.gq
     maxResponseTime: 5000
@@ -36,10 +26,10 @@ status-website:
   logoUrl: https://cdn.jsdelivr.net/gh/culturecloud/static-resources/images/culturecloud.webp
   name: Culture Cloud
   # introTitle: ""
-  introMessage: "This is the status page for various projects we'll be working on. You can contact us at [culturecloud@protonmail.com](mailto:culturecloud@protonmail.com)."
+  introMessage: "This is the status page for various projects we're messing around with. You can contact us at [culturecloud@duck.com](mailto:culturecloud@duck.com)."
   navbar:
     - title: Blog
       href: https://culturecloud.gq
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
 
