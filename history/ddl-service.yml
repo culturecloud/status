@@ -1,7 +1,7 @@
 url: https://dl.culturecloud.gq
-status: up
+status: degraded
 code: 200
-responseTime: 604
-lastUpdated: 2023-02-11T23:19:13.749Z
+responseTime: 26170
+lastUpdated: 2023-02-12T13:42:41.657Z
 startTime: Thu Nov 17 2022 08:21:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
