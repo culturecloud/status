@@ -29,19 +29,19 @@
     "url": "https://journal.culturecloud.gq",
     "icon": "https://icons.duckduckgo.com/ip3/journal.culturecloud.gq.ico",
     "slug": "personal-journal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 959,
-    "timeDay": 858,
-    "timeWeek": 917,
-    "timeMonth": 959,
-    "timeYear": 959,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 971,
+    "timeDay": 948,
+    "timeWeek": 940,
+    "timeMonth": 971,
+    "timeYear": 971,
     "dailyMinutesDown": {
-      "2023-02-13": 0
+      "2023-02-13": 15
     }
   },
   {
@@ -114,7 +114,7 @@
     "timeMonth": 521,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2023-02-13": 338,
+      "2023-02-13": 353,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
