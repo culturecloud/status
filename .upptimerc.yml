@@ -1,35 +1,53 @@
 owner: culturecloud
 repo: status
-user-agent: culturecloud
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 
 sites:
-  - name: Culture Cloud Blog
-    url: https://culturecloud.gq
+  - name: Culture Cloud
+    url: https://culturecloud.eu.org
     maxResponseTime: 5000
   - name: Personal Journal
-    url: https://journal.culturecloud.gq
+    url: https://journal.culturecloud.eu.org
     maxResponseTime: 5000
   - name: DDL Service
-    url: https://dl.culturecloud.gq
+    url: https://dl.culturecloud.eu.org
+    maxResponseTime: 5000
+  - name: OneDrive Index
+    url: https://onedrive.culturecloud.eu.org
+    maxResponseTime: 5000
+  - name: GDrive Index
+    url: https://gdrive.culturecloud.eu.org
+    maxResponseTime: 5000
+  - name: Tachidesk Server
+    url: https://tachidesk.culturecloud.eu.org
+    maxResponseTime: 5000
+  - name: Status Page
+    url: https://status.culturecloud.eu.org
+    maxResponseTime: 5000
+  - name: Image Proxy Service
+    url: https://images.culturecloud.eu.org
+    maxResponseTime: 5000
+  - name: ChatGPT Web
+    url: https://chatgpt.culturecloud.eu.org
     maxResponseTime: 5000
   - name: Telegram Index
-    url: https://tgdex.culturecloud.gq
+    url: https://tgdex.culturecloud.eu.org
     maxResponseTime: 5000
     
 workflowSchedule:
-  uptime: "*/15 * * * *"
+  uptime: "*/5 * * * *"
 
 status-website:
   theme: dark
-  cname: status.culturecloud.gq
+  cname: status.culturecloud.eu.org
   favicon: https://cdn.jsdelivr.net/gh/culturecloud/static-resources/images/favicon.ico
   logoUrl: https://cdn.jsdelivr.net/gh/culturecloud/static-resources/images/culturecloud.webp
   name: Culture Cloud
-  # introTitle: ""
+  # introTitle: "Cultured Projects for Cultured People"
   introMessage: "This is the status page for various projects we're messing around with. You can contact us at [culturecloud@duck.com](mailto:culturecloud@duck.com)."
   navbar:
     - title: Blog
-      href: https://culturecloud.gq
+      href: https://culturecloud.eu.org
     - title: GitHub
       href: https://github.com/$OWNER
 
