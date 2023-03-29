@@ -44,7 +44,7 @@ status-website:
   logoUrl: https://cdn.jsdelivr.net/gh/culturecloud/static-resources/images/culturecloud.webp
   name: Culture Cloud
   # introTitle: "Cultured Projects for Cultured People"
-  introMessage: "This is the status page for various projects we're messing around with. You can contact us at [culturecloud@duck.com](mailto:culturecloud@duck.com)."
+  introMessage: "This is the status page for various projects we're messing around with. You can contact us at [contact@culturecloud.eu.org](mailto:contact@culturecloud.eu.org)."
   navbar:
     - title: Blog
       href: https://culturecloud.eu.org
