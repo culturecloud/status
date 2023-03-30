@@ -153,8 +153,8 @@
     "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.74%",
-    "uptimeMonth": "60.74%",
+    "uptimeWeek": "60.75%",
+    "uptimeMonth": "60.75%",
     "uptimeYear": "0.00%",
     "time": 1883,
     "timeDay": 905,
@@ -414,18 +414,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/crate.culturecloud.eu.org.ico",
     "slug": "web-crate",
     "status": "down",
-    "uptime": "0.49%",
-    "uptimeDay": "0.49%",
-    "uptimeWeek": "0.49%",
-    "uptimeMonth": "0.49%",
-    "uptimeYear": "0.49%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 143,
     "timeDay": 143,
     "timeWeek": 143,
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-03-30": 0
+      "2023-03-30": 1
     }
   }
 ]
