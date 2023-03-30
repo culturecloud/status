@@ -33,6 +33,9 @@ sites:
   - name: Telegram Index
     url: https://tgdex.culturecloud.eu.org
     maxResponseTime: 5000
+  - name: WebCrate
+    url: https://crate.culturecloud.eu.org
+    maxResponseTime: 5000
     
 workflowSchedule:
   uptime: "*/5 * * * *"
