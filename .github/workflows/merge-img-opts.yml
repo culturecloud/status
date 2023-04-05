@@ -1,0 +1,20 @@
+name: Auto Merge Image Optimizations
+
+on:
+  pull_request:
+    types: [opened, edited, reopened]
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Merge pull request
+        uses: peter-evans/merge-pull-request-action@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ github.event.pull_request.number }}
+          merge-method: squash
+        if: contains(github.event.pull_request.title, 'ImgBot')
