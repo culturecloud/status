@@ -1,8 +1,9 @@
-name: Auto Merge Image Optimizations
+name: Merge Image Optimizations
 
 on:
   pull_request:
     types: [opened, edited, reopened]
+  workflow_dispatch:
 
 jobs:
   merge:
@@ -17,4 +18,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           pull-request-number: ${{ github.event.pull_request.number }}
           merge-method: squash
-        if: contains(github.event.pull_request.title, 'ImgBot')
+        if: contains(github.event.pull_request.title, 'ImgBot') || github.event_name == 'workflow_dispatch'
