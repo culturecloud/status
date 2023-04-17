@@ -3,7 +3,7 @@ repo: status
 user-agent: culturecloud
 
 sites:
-  - name: Culture Cloud
+  - name: Culture Cloud Blog
     url: https://culturecloud.eu.org
     maxResponseTime: 5000
   - name: Personal Journal
@@ -35,6 +35,9 @@ sites:
     maxResponseTime: 5000
   - name: WebCrate
     url: https://crate.culturecloud.eu.org
+    maxResponseTime: 5000
+  - name: Web Monitor
+    url: https://monitor.culturecloud.eu.org
     maxResponseTime: 5000
     
 workflowSchedule:
