@@ -1,7 +1,7 @@
 url: https://monitor.culturecloud.eu.org
-status: down
+status: degraded
 code: 526
-responseTime: 3826
-lastUpdated: 2023-04-17T03:33:37.869Z
+responseTime: 7085
+lastUpdated: 2023-04-17T04:27:19.730Z
 startTime: Mon Apr 17 2023 02:17:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
