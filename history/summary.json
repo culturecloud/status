@@ -172,7 +172,7 @@
     "timeMonth": 832,
     "timeYear": 1814,
     "dailyMinutesDown": {
-      "2023-04-17": 137,
+      "2023-04-17": 138,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
@@ -477,18 +477,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/monitor.culturecloud.eu.org.ico",
     "slug": "web-monitor",
     "status": "down",
-    "uptime": "13.02%",
-    "uptimeDay": "13.02%",
-    "uptimeWeek": "13.02%",
-    "uptimeMonth": "13.02%",
-    "uptimeYear": "13.02%",
+    "uptime": "6.03%",
+    "uptimeDay": "6.03%",
+    "uptimeWeek": "6.03%",
+    "uptimeMonth": "6.03%",
+    "uptimeYear": "6.03%",
     "time": 680,
     "timeDay": 680,
     "timeWeek": 680,
     "timeMonth": 680,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2023-04-17": 0
+      "2023-04-17": 1
     }
   }
 ]
