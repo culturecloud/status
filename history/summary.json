@@ -8,7 +8,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.52%",
+    "uptimeMonth": "72.29%",
     "uptimeYear": "0.00%",
     "time": 536,
     "timeDay": 379,
@@ -164,7 +164,7 @@
     "uptime": "21.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.81%",
+    "uptimeMonth": "32.80%",
     "uptimeYear": "21.05%",
     "time": 1814,
     "timeDay": 0,
@@ -172,7 +172,7 @@
     "timeMonth": 832,
     "timeYear": 1814,
     "dailyMinutesDown": {
-      "2023-04-17": 465,
+      "2023-04-17": 474,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
@@ -315,7 +315,7 @@
     "timeMonth": 966,
     "timeYear": 1775,
     "dailyMinutesDown": {
-      "2023-04-17": 465,
+      "2023-04-17": 474,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
@@ -476,19 +476,19 @@
     "url": "https://monitor.culturecloud.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/monitor.culturecloud.eu.org.ico",
     "slug": "web-monitor",
-    "status": "degraded",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 4252,
-    "timeDay": 4252,
-    "timeWeek": 4252,
-    "timeMonth": 4252,
-    "timeYear": 4252,
+    "status": "down",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 4243,
+    "timeDay": 4243,
+    "timeWeek": 4243,
+    "timeMonth": 4243,
+    "timeYear": 4243,
     "dailyMinutesDown": {
-      "2023-04-17": 328
+      "2023-04-17": 337
     }
   }
 ]
