@@ -30,12 +30,6 @@ sites:
   - name: ChatGPT Web
     url: https://chatgpt.culturecloud.eu.org
     maxResponseTime: 5000
-  - name: Telegram Index
-    url: https://tgdex.culturecloud.eu.org
-    maxResponseTime: 5000
-  - name: WebCrate
-    url: https://crate.culturecloud.eu.org
-    maxResponseTime: 5000
   - name: Web Monitor
     url: https://monitor.culturecloud.eu.org
     maxResponseTime: 5000
