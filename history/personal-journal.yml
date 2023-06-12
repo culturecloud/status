@@ -1,7 +1,7 @@
 url: https://journal.culturecloud.eu.org
-status: up
-code: 200
-responseTime: 932
-lastUpdated: 2023-06-12T18:32:32.555Z
+status: down
+code: 503
+responseTime: 789
+lastUpdated: 2023-06-12T20:18:52.187Z
 startTime: Thu Feb 02 2023 17:07:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
