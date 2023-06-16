@@ -6,9 +6,6 @@ sites:
   - name: Culture Cloud Blog
     url: https://culturecloud.eu.org
     maxResponseTime: 5000
-  - name: Personal Journal
-    url: https://journal.culturecloud.eu.org
-    maxResponseTime: 5000
   - name: DDL Service
     url: https://dl.culturecloud.eu.org
     maxResponseTime: 5000
