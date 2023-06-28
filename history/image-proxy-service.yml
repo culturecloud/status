@@ -1,7 +1,7 @@
 url: https://images.culturecloud.eu.org
-status: up
-code: 200
-responseTime: 439
-lastUpdated: 2023-06-27T23:20:05.364Z
+status: down
+code: 503
+responseTime: 462
+lastUpdated: 2023-06-28T01:03:57.155Z
 startTime: Tue Mar 28 2023 15:19:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
