@@ -1,7 +1,7 @@
 url: https://tachidesk.culturecloud.eu.org
-status: degraded
-code: 502
-responseTime: 24441
-lastUpdated: 2023-07-02T01:06:23.784Z
+status: up
+code: 200
+responseTime: 1097
+lastUpdated: 2023-07-02T03:19:05.491Z
 startTime: Tue Mar 28 2023 15:19:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
