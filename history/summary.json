@@ -44,7 +44,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-07-11": 276,
+      "2023-07-11": 284,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
@@ -203,17 +203,17 @@
     "url": "https://tachidesk.culturecloud.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/tachidesk.culturecloud.eu.org.ico",
     "slug": "tachidesk-server",
-    "status": "up",
-    "uptime": "40.06%",
-    "uptimeDay": "87.80%",
-    "uptimeWeek": "92.88%",
+    "status": "down",
+    "uptime": "40.09%",
+    "uptimeDay": "87.78%",
+    "uptimeWeek": "92.87%",
     "uptimeMonth": "92.85%",
-    "uptimeYear": "40.06%",
-    "time": 4917,
-    "timeDay": 5134,
-    "timeWeek": 4421,
-    "timeMonth": 7362,
-    "timeYear": 4917,
+    "uptimeYear": "40.09%",
+    "time": 4916,
+    "timeDay": 5065,
+    "timeWeek": 4420,
+    "timeMonth": 7347,
+    "timeYear": 4916,
     "dailyMinutesDown": {
       "2023-07-11": 134,
       "2023-07-10": 169,
@@ -326,7 +326,7 @@
       "2023-01-21": 51,
       "2023-01-20": 60,
       "2023-01-19": 131,
-      "2023-01-18": 64
+      "2023-01-18": 18
     }
   },
   {
@@ -356,7 +356,7 @@
     "slug": "image-proxy-service",
     "status": "up",
     "uptime": "94.17%",
-    "uptimeDay": "87.46%",
+    "uptimeDay": "88.04%",
     "uptimeWeek": "90.35%",
     "uptimeMonth": "91.94%",
     "uptimeYear": "94.17%",
@@ -486,7 +486,7 @@
     "uptimeYear": "98.24%",
     "time": 1588,
     "timeDay": 694,
-    "timeWeek": 963,
+    "timeWeek": 991,
     "timeMonth": 1759,
     "timeYear": 1588,
     "dailyMinutesDown": {
