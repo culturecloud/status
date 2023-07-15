@@ -44,7 +44,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-07-15": 405,
+      "2023-07-15": 431,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
@@ -209,9 +209,9 @@
     "slug": "tachidesk-server",
     "status": "up",
     "uptime": "42.47%",
-    "uptimeDay": "82.36%",
-    "uptimeWeek": "88.60%",
-    "uptimeMonth": "92.14%",
+    "uptimeDay": "82.99%",
+    "uptimeWeek": "88.69%",
+    "uptimeMonth": "92.16%",
     "uptimeYear": "42.47%",
     "time": 4802,
     "timeDay": 3776,
@@ -219,7 +219,7 @@
     "timeMonth": 5854,
     "timeYear": 4802,
     "dailyMinutesDown": {
-      "2023-07-15": 150,
+      "2023-07-15": 141,
       "2023-07-14": 197,
       "2023-07-13": 96,
       "2023-07-12": 157,
@@ -327,7 +327,7 @@
       "2023-02-01": 46,
       "2023-01-27": 21,
       "2023-01-26": 125,
-      "2023-01-25": 26
+      "2023-01-25": 54
     }
   },
   {
@@ -426,12 +426,12 @@
     "url": "https://chatgpt.culturecloud.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/chatgpt.culturecloud.eu.org.ico",
     "slug": "chat-gpt-web",
-    "status": "up",
-    "uptime": "96.13%",
-    "uptimeDay": "97.72%",
+    "status": "down",
+    "uptime": "96.17%",
+    "uptimeDay": "97.69%",
     "uptimeWeek": "92.41%",
     "uptimeMonth": "93.15%",
-    "uptimeYear": "96.13%",
+    "uptimeYear": "96.17%",
     "time": 743,
     "timeDay": 1020,
     "timeWeek": 544,
@@ -478,7 +478,7 @@
       "2023-05-25": 65,
       "2023-05-24": 497,
       "2023-05-23": 261,
-      "2023-05-22": 183
+      "2023-05-22": 118
     }
   },
   {
