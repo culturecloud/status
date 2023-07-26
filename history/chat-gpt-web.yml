@@ -1,7 +1,7 @@
 url: https://chatgpt.culturecloud.eu.org
-status: up
-code: 200
-responseTime: 642
-lastUpdated: 2023-07-25T23:15:20.277Z
+status: down
+code: 503
+responseTime: 257
+lastUpdated: 2023-07-26T08:17:56.821Z
 startTime: Tue Mar 28 2023 15:19:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
