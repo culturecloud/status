@@ -44,7 +44,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-07-27": 927,
+      "2023-07-27": 973,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -371,17 +371,17 @@
     "url": "https://chatgpt.culturecloud.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/chatgpt.culturecloud.eu.org.ico",
     "slug": "chat-gpt-web",
-    "status": "up",
-    "uptime": "96.57%",
-    "uptimeDay": "81.91%",
-    "uptimeWeek": "88.58%",
+    "status": "down",
+    "uptime": "96.61%",
+    "uptimeDay": "81.88%",
+    "uptimeWeek": "88.57%",
     "uptimeMonth": "90.96%",
-    "uptimeYear": "96.57%",
-    "time": 749,
-    "timeDay": 535,
-    "timeWeek": 907,
-    "timeMonth": 650,
-    "timeYear": 749,
+    "uptimeYear": "96.61%",
+    "time": 748,
+    "timeDay": 529,
+    "timeWeek": 897,
+    "timeMonth": 649,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2023-07-27": 261,
       "2023-07-26": 144,
@@ -425,8 +425,7 @@
       "2023-06-07": 270,
       "2023-06-05": 63,
       "2023-06-02": 57,
-      "2023-05-31": 129,
-      "2023-05-30": 67
+      "2023-05-31": 129
     }
   },
   {
