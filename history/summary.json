@@ -44,7 +44,7 @@
     "timeMonth": 0,
     "timeYear": 2792,
     "dailyMinutesDown": {
-      "2023-07-30": 45,
+      "2023-07-30": 58,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
@@ -222,18 +222,19 @@
     "url": "https://tachidesk.culturecloud.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/tachidesk.culturecloud.eu.org.ico",
     "slug": "tachidesk-server",
-    "status": "up",
-    "uptime": "96.44%",
-    "uptimeDay": "93.81%",
-    "uptimeWeek": "92.04%",
+    "status": "down",
+    "uptime": "96.45%",
+    "uptimeDay": "93.80%",
+    "uptimeWeek": "92.03%",
     "uptimeMonth": "88.97%",
-    "uptimeYear": "96.44%",
+    "uptimeYear": "96.45%",
     "time": 5840,
-    "timeDay": 12474,
+    "timeDay": 11297,
     "timeWeek": 10400,
     "timeMonth": 7239,
     "timeYear": 5840,
     "dailyMinutesDown": {
+      "2023-07-30": 1,
       "2023-07-29": 89,
       "2023-07-28": 83,
       "2023-07-27": 100,
@@ -277,8 +278,7 @@
       "2023-06-18": 71,
       "2023-06-17": 103,
       "2023-06-16": 45,
-      "2023-06-15": 132,
-      "2023-06-14": 24
+      "2023-06-15": 132
     }
   },
   {
