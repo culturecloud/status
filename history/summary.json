@@ -12,7 +12,7 @@
     "uptimeYear": "96.30%",
     "time": 411,
     "timeDay": 458,
-    "timeWeek": 268,
+    "timeWeek": 278,
     "timeMonth": 249,
     "timeYear": 411,
     "dailyMinutesDown": {
@@ -36,11 +36,11 @@
     "uptime": "70.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "25.31%",
+    "uptimeMonth": "25.51%",
     "uptimeYear": "70.75%",
     "time": 2726,
     "timeDay": 428,
-    "timeWeek": 601,
+    "timeWeek": 625,
     "timeMonth": 524,
     "timeYear": 2726,
     "dailyMinutesDown": {
@@ -190,8 +190,8 @@
     "uptimeYear": "99.99%",
     "time": 1112,
     "timeDay": 1301,
-    "timeWeek": 1173,
-    "timeMonth": 1139,
+    "timeWeek": 1159,
+    "timeMonth": 1156,
     "timeYear": 1112,
     "dailyMinutesDown": {
       "2023-03-28": 19
@@ -210,7 +210,7 @@
     "uptimeYear": "99.99%",
     "time": 395,
     "timeDay": 659,
-    "timeWeek": 427,
+    "timeWeek": 433,
     "timeMonth": 391,
     "timeYear": 395,
     "dailyMinutesDown": {
@@ -223,18 +223,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tachidesk.culturecloud.eu.org.ico",
     "slug": "tachidesk-server",
     "status": "up",
-    "uptime": "96.77%",
-    "uptimeDay": "94.52%",
-    "uptimeWeek": "94.37%",
-    "uptimeMonth": "89.24%",
-    "uptimeYear": "96.77%",
+    "uptime": "96.76%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "94.42%",
+    "uptimeMonth": "89.26%",
+    "uptimeYear": "96.76%",
     "time": 6150,
     "timeDay": 8175,
-    "timeWeek": 9337,
-    "timeMonth": 8069,
+    "timeWeek": 9373,
+    "timeMonth": 8090,
     "timeYear": 6150,
     "dailyMinutesDown": {
-      "2023-08-07": 79,
+      "2023-08-07": 74,
       "2023-08-06": 47,
       "2023-08-05": 55,
       "2023-08-04": 99,
@@ -275,7 +275,8 @@
       "2023-06-29": 128,
       "2023-06-28": 222,
       "2023-06-27": 104,
-      "2023-06-26": 112
+      "2023-06-26": 112,
+      "2023-06-25": 19
     }
   },
   {
@@ -291,8 +292,8 @@
     "uptimeYear": "99.99%",
     "time": 194,
     "timeDay": 305,
-    "timeWeek": 263,
-    "timeMonth": 212,
+    "timeWeek": 254,
+    "timeMonth": 209,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2023-03-28": 19
@@ -311,8 +312,8 @@
     "uptimeYear": "96.86%",
     "time": 669,
     "timeDay": 316,
-    "timeWeek": 536,
-    "timeMonth": 556,
+    "timeWeek": 506,
+    "timeMonth": 554,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2023-08-07": 119,
@@ -379,8 +380,8 @@
     "uptimeYear": "96.87%",
     "time": 730,
     "timeDay": 567,
-    "timeWeek": 523,
-    "timeMonth": 660,
+    "timeWeek": 495,
+    "timeMonth": 661,
     "timeYear": 730,
     "dailyMinutesDown": {
       "2023-08-07": 133,
@@ -441,8 +442,8 @@
     "uptimeYear": "98.44%",
     "time": 1455,
     "timeDay": 449,
-    "timeWeek": 1266,
-    "timeMonth": 993,
+    "timeWeek": 1310,
+    "timeMonth": 1001,
     "timeYear": 1455,
     "dailyMinutesDown": {
       "2023-08-07": 16,
