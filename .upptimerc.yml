@@ -15,9 +15,6 @@ sites:
   - name: GDrive Index
     url: https://gdrive.culturecloud.eu.org
     maxResponseTime: 5000
-  - name: Tachidesk Server
-    url: https://tachidesk.culturecloud.eu.org
-    maxResponseTime: 5000
   - name: Status Page
     url: https://status.culturecloud.eu.org
     maxResponseTime: 5000
