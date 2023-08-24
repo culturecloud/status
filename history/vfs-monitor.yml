@@ -1,7 +1,7 @@
 url: https://vfs.autodox.repl.co
-status: up
-code: 200
-responseTime: 371
-lastUpdated: 2023-08-24T11:30:42.783Z
+status: down
+code: 502
+responseTime: 2107
+lastUpdated: 2023-08-24T17:52:05.633Z
 startTime: 2023-08-24T11:30:42.406Z
 generator: Upptime <https://github.com/upptime/upptime>
