@@ -36,7 +36,7 @@
     "uptime": "72.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.97%",
+    "uptimeMonth": "95.07%",
     "uptimeYear": "72.91%",
     "time": 2603,
     "timeDay": 451,
@@ -311,12 +311,12 @@
     "url": "https://gpt.culturecloud.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/gpt.culturecloud.eu.org.ico",
     "slug": "chat-gpt-web",
-    "status": "up",
-    "uptime": "97.50%",
-    "uptimeDay": "88.75%",
-    "uptimeWeek": "92.34%",
+    "status": "down",
+    "uptime": "97.53%",
+    "uptimeDay": "88.72%",
+    "uptimeWeek": "92.33%",
     "uptimeMonth": "93.69%",
-    "uptimeYear": "97.50%",
+    "uptimeYear": "97.53%",
     "time": 685,
     "timeDay": 683,
     "timeWeek": 549,
@@ -363,7 +363,7 @@
       "2023-07-15": 206,
       "2023-07-14": 96,
       "2023-07-13": 55,
-      "2023-07-12": 184
+      "2023-07-12": 123
     }
   },
   {
