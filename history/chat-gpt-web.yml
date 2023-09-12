@@ -1,7 +1,7 @@
 url: https://gpt.culturecloud.eu.org
-status: down
-code: 503
-responseTime: 323
-lastUpdated: 2023-09-12T18:09:36.798Z
+status: up
+code: 200
+responseTime: 234
+lastUpdated: 2023-09-12T19:16:36.685Z
 startTime: 2023-03-28T15:19:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
