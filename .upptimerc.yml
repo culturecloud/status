@@ -27,6 +27,9 @@ sites:
   - name: Web Monitor
     url: https://monitor.culturecloud.eu.org
     maxResponseTime: 5000
+  - name: Shiori
+    url: https://shiori.culturecloud.eu.org
+    maxResponseTime: 5000
   - name: VFS Monitor
     url: https://vfs.autodox.repl.co
     maxResponseTime: 5000
