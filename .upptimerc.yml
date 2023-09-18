@@ -21,9 +21,6 @@ sites:
   - name: Image Proxy Service
     url: https://images.culturecloud.eu.org
     maxResponseTime: 5000
-  - name: ChatGPT Web
-    url: https://gpt.culturecloud.eu.org
-    maxResponseTime: 5000
   - name: Web Monitor
     url: https://monitor.culturecloud.eu.org
     maxResponseTime: 5000
