@@ -1,7 +1,7 @@
 url: https://shiori.culturecloud.eu.org
-status: up
-code: 200
-responseTime: 287
-lastUpdated: 2023-09-24T23:16:20.629Z
+status: degraded
+code: 502
+responseTime: 10263
+lastUpdated: 2023-09-25T03:20:55.553Z
 startTime: 2023-09-18T10:13:33.655Z
 generator: Upptime <https://github.com/upptime/upptime>
