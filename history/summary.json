@@ -32,18 +32,19 @@
     "url": "https://dl.culturecloud.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/dl.culturecloud.eu.org.ico",
     "slug": "ddl-service",
-    "status": "up",
-    "uptime": "75.98%",
-    "uptimeDay": "30.21%",
+    "status": "down",
+    "uptime": "75.99%",
+    "uptimeDay": "44.99%",
     "uptimeWeek": "87.53%",
     "uptimeMonth": "97.09%",
-    "uptimeYear": "75.98%",
+    "uptimeYear": "75.99%",
     "time": 2427,
     "timeDay": 1388,
     "timeWeek": 873,
     "timeMonth": 664,
     "timeYear": 2427,
     "dailyMinutesDown": {
+      "2023-10-08": 0,
       "2023-10-07": 1044,
       "2023-10-06": 213,
       "2023-09-21": 16,
@@ -177,7 +178,7 @@
       "2022-11-21": 16,
       "2022-11-20": 170,
       "2022-11-19": 109,
-      "2022-11-18": 41
+      "2022-11-18": 22
     }
   },
   {
