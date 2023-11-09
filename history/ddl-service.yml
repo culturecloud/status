@@ -1,7 +1,7 @@
 url: https://dl.culturecloud.eu.org
-status: down
-code: 503
-responseTime: 500
-lastUpdated: 2023-11-09T21:29:12.880Z
+status: up
+code: 200
+responseTime: 1292
+lastUpdated: 2023-11-09T21:38:38.686Z
 startTime: 2022-11-17T08:21:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
