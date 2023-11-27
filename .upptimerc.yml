@@ -23,11 +23,11 @@ sites:
     url: $WEB_MONITORING_SERVICE
   - name: Freenom Renewal Service
     url: $FREENOM_RENEWAL_SERVICE
-  - name: Rendered Bless Service
-    url: $RENDERED_BLESS_SERVICE
   - name: Rendered Bless Service V1
     url: $RENDERED_BLESS_SERVICE_V1
-    
+  - name: Rendered Bless Service V2 (Chrome)
+    url: $RENDERED_BLESS_SERVICE_V2_CHROME
+  
 workflowSchedule:
   uptime: "*/5 * * * *"
 
