@@ -5,36 +5,26 @@ user-agent: culturecloud
 sites:
   - name: Official Blog
     url: https://culturecloud.eu.org
-    maxResponseTime: 5000
   - name: Official Status Page
     url: https://status.culturecloud.eu.org
-    maxResponseTime: 5000
   - name: Telegram DDL Service
     url: $TG_DDL_SERVICE
-    maxResponseTime: 5000
   - name: OneDrive DDL Service
     url: $OD_DDL_INDEX
-    maxResponseTime: 5000
   - name: GDrive DDL Service
     url: $GD_DDL_SERVICE
-    maxResponseTime: 5000
   - name: Rclone DDL Service
     url: $RC_DDL_SERVICE
     headers:
       - "Authorization: Basic $BASIC_AUTH_TOKEN"
-    maxResponseTime: 5000
   - name: Image Proxy Service
     url: $IMAGE_PROXY_SERVICE
-    maxResponseTime: 5000
   - name: Web Monitoring Service
     url: $WEB_MONITORING_SERVICE
-    maxResponseTime: 5000
   - name: Freenom Renewal Service
     url: $FREENOM_RENEWAL_SERVICE
-    maxResponseTime: 5000
   - name: Rendered Bless Service
     url: $RENDERED_BLESS_SERVICE
-    maxResponseTime: 5000
     
 workflowSchedule:
   uptime: "*/5 * * * *"
