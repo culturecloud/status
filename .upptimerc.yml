@@ -32,6 +32,9 @@ sites:
   - name: Freenom Renewal Service
     url: $FREENOM_RENEWAL_SERVICE
     maxResponseTime: 5000
+  - name: Rendered Bless Service
+    url: $RENDERED_BLESS_SERVICE
+    maxResponseTime: 5000
     
 workflowSchedule:
   uptime: "*/5 * * * *"
