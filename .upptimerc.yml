@@ -25,6 +25,8 @@ sites:
     url: $FREENOM_RENEWAL_SERVICE
   - name: Rendered Bless Service
     url: $RENDERED_BLESS_SERVICE
+  - name: Rendered Bless Service V1
+    url: $RENDERED_BLESS_SERVICE_V1
     
 workflowSchedule:
   uptime: "*/5 * * * *"
