@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "telegram-ddl-service",
     "status": "up",
-    "uptime": "93.48%",
-    "uptimeDay": "93.48%",
-    "uptimeWeek": "93.48%",
-    "uptimeMonth": "93.48%",
-    "uptimeYear": "93.48%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 619,
     "timeDay": 619,
     "timeWeek": 619,
     "timeMonth": 619,
     "timeYear": 619,
-    "dailyMinutesDown": {
-      "2023-11-27": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OneDrive DDL Service",
@@ -201,19 +199,19 @@
     "url": "$FREENOM_RENEWAL_SERVICE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "freenom-renewal-service",
-    "status": "up",
-    "uptime": "77.18%",
-    "uptimeDay": "77.18%",
-    "uptimeWeek": "77.18%",
-    "uptimeMonth": "77.18%",
-    "uptimeYear": "77.18%",
+    "status": "down",
+    "uptime": "86.60%",
+    "uptimeDay": "86.60%",
+    "uptimeWeek": "86.60%",
+    "uptimeMonth": "86.60%",
+    "uptimeYear": "86.60%",
     "time": 397,
     "timeDay": 397,
     "timeWeek": 397,
     "timeMonth": 397,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2023-11-27": 31
+      "2023-11-27": 32
     }
   },
   {
@@ -222,18 +220,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rendered-bless-service",
     "status": "up",
-    "uptime": "77.32%",
-    "uptimeDay": "77.32%",
-    "uptimeWeek": "77.32%",
-    "uptimeMonth": "77.32%",
-    "uptimeYear": "77.32%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 398,
     "timeDay": 398,
     "timeWeek": 398,
     "timeMonth": 398,
     "timeYear": 398,
-    "dailyMinutesDown": {
-      "2023-11-27": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
