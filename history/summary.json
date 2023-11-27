@@ -200,11 +200,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "freenom-renewal-service",
     "status": "up",
-    "uptime": "92.96%",
-    "uptimeDay": "92.96%",
-    "uptimeWeek": "92.96%",
-    "uptimeMonth": "92.96%",
-    "uptimeYear": "92.96%",
+    "uptime": "93.55%",
+    "uptimeDay": "93.55%",
+    "uptimeWeek": "93.55%",
+    "uptimeMonth": "93.55%",
+    "uptimeYear": "93.55%",
     "time": 394,
     "timeDay": 394,
     "timeWeek": 394,
@@ -219,18 +219,20 @@
     "url": "$RENDERED_BLESS_SERVICE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rendered-bless-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 387,
     "timeDay": 387,
     "timeWeek": 387,
     "timeMonth": 387,
     "timeYear": 387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-27": 0
+    }
   },
   {
     "name": "Rendered Bless Service V1",
@@ -238,18 +240,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rendered-bless-service-v1",
     "status": "down",
-    "uptime": "19.42%",
-    "uptimeDay": "19.42%",
-    "uptimeWeek": "19.42%",
-    "uptimeMonth": "19.42%",
-    "uptimeYear": "19.42%",
+    "uptime": "10.56%",
+    "uptimeDay": "10.56%",
+    "uptimeWeek": "10.56%",
+    "uptimeMonth": "10.56%",
+    "uptimeYear": "10.56%",
     "time": 525,
     "timeDay": 525,
     "timeWeek": 525,
     "timeMonth": 525,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2023-11-27": 38
+      "2023-11-27": 78
     }
   }
 ]
