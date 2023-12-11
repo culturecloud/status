@@ -1,7 +1,7 @@
 url: $FREENOM_RENEWAL_SERVICE
-status: up
-code: 200
-responseTime: 336
-lastUpdated: 2023-12-10T23:17:42.928Z
+status: down
+code: 503
+responseTime: 326
+lastUpdated: 2023-12-11T07:55:30.473Z
 startTime: 2023-11-27T12:22:49.854Z
 generator: Upptime <https://github.com/upptime/upptime>
