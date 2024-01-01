@@ -1,7 +1,7 @@
 url: $RENDERED_BLESS_SERVICE_V1
-status: down
-code: 502
-responseTime: 815
-lastUpdated: 2024-01-01T09:56:14.832Z
+status: up
+code: 200
+responseTime: 380
+lastUpdated: 2024-01-01T10:14:14.540Z
 startTime: 2023-11-27T18:51:40.553Z
 generator: Upptime <https://github.com/upptime/upptime>
