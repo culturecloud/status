@@ -191,18 +191,20 @@
     "url": "$WEB_MONITORING_SERVICE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-monitoring-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1822,
-    "timeDay": 256,
-    "timeWeek": 516,
-    "timeMonth": 2162,
-    "timeYear": 1822,
-    "dailyMinutesDown": {}
+    "time": 1785,
+    "timeDay": 250,
+    "timeWeek": 482,
+    "timeMonth": 2104,
+    "timeYear": 1785,
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   },
   {
     "name": "Freenom Renewal Service",
