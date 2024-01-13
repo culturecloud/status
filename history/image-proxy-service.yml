@@ -1,7 +1,7 @@
 url: $IMAGE_PROXY_SERVICE
-status: down
-code: 503
-responseTime: 362
-lastUpdated: 2024-01-13T11:28:35.504Z
+status: up
+code: 200
+responseTime: 460
+lastUpdated: 2024-01-13T11:37:48.320Z
 startTime: 2023-03-28T15:19:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
