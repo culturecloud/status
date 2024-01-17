@@ -1,7 +1,7 @@
 url: $OD_DDL_INDEX
-status: down
-code: 500
-responseTime: 1535
-lastUpdated: 2024-01-17T21:41:36.918Z
+status: up
+code: 200
+responseTime: 5184
+lastUpdated: 2024-01-17T22:19:27.289Z
 startTime: 2023-11-27T12:22:45.125Z
 generator: Upptime <https://github.com/upptime/upptime>
