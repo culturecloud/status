@@ -1,7 +1,7 @@
 url: $RC_DDL_SERVICE
-status: down
-code: 503
-responseTime: 388
-lastUpdated: 2024-02-07T16:33:27.001Z
+status: up
+code: 200
+responseTime: 4462
+lastUpdated: 2024-02-07T17:02:48.489Z
 startTime: 2023-11-27T12:22:47.497Z
 generator: Upptime <https://github.com/upptime/upptime>
