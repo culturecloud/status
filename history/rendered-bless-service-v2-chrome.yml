@@ -1,7 +1,7 @@
 url: $RENDERED_BLESS_SERVICE_V2_CHROME
-status: down
-code: 521
-responseTime: 631
-lastUpdated: 2024-02-08T04:22:42.470Z
+status: up
+code: 200
+responseTime: 267
+lastUpdated: 2024-02-08T04:31:45.333Z
 startTime: 2023-11-27T21:54:38.879Z
 generator: Upptime <https://github.com/upptime/upptime>
