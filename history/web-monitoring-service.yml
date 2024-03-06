@@ -1,7 +1,7 @@
 url: $WEB_MONITORING_SERVICE
 status: down
 code: 404
-responseTime: 207
-lastUpdated: 2024-03-05T23:17:08.068Z
+responseTime: 1420
+lastUpdated: 2024-03-06T23:17:58.237Z
 startTime: 2023-11-27T12:22:48.837Z
 generator: Upptime <https://github.com/upptime/upptime>
