@@ -1,7 +1,7 @@
 url: $WEB_MONITORING_SERVICE
 status: down
 code: 525
-responseTime: 468
-lastUpdated: 2024-04-09T23:18:34.589Z
+responseTime: 257
+lastUpdated: 2024-04-10T23:19:15.299Z
 startTime: 2023-11-27T12:22:48.837Z
 generator: Upptime <https://github.com/upptime/upptime>
