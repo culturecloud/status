@@ -10,7 +10,9 @@ sites:
   - name: Telegram DDL Service
     url: $TG_DDL_SERVICE
   - name: OneDrive DDL Service
-    url: $OD_DDL_INDEX
+    url: $OD_DDL_SERVICE
+  - name: OneDrive DDL Service 2
+    url: $OD_DDL_SERVICE_2
   - name: GDrive DDL Service
     url: $GD_DDL_SERVICE
   - name: Rclone DDL Service
