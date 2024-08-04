@@ -18,11 +18,13 @@ sites:
   - name: Rclone DDL Service
     url: $RC_DDL_SERVICE
     headers:
-      - "Authorization: Basic $BASIC_AUTH_TOKEN"
+      - "authorization: Basic $BASIC_AUTH_TOKEN"
   - name: Image Proxy Service
     url: $IMAGE_PROXY_SERVICE
   - name: Web Monitoring Service
-    url: $WEB_MONITORING_SERVICE
+    url: $WEB_MONITORING_SERVICE/api/v1/systeminfo
+    headers:
+      - "x-api-key: $API_KEY_WEB_MONITORING_SERVICE"
   - name: Freenom Renewal Service
     url: $FREENOM_RENEWAL_SERVICE
   - name: Rendered Bless Service V1
