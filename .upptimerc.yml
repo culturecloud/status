@@ -15,7 +15,7 @@ sites:
     url: $OD_DDL_SERVICE_2
   - name: GDrive DDL Service
     url: $GD_DDL_SERVICE
-  - name: Rclone DDL Service
+  - name: Rclone (Multi Cloud) DDL Service
     url: $RC_DDL_SERVICE
     headers:
       - "authorization: Basic $BASIC_AUTH_TOKEN"
@@ -25,6 +25,7 @@ sites:
     url: $WEB_MONITORING_SERVICE/api/v1/systeminfo
     headers:
       - "x-api-key: $API_KEY_WEB_MONITORING_SERVICE"
+    maxResponseTime: 120000
   - name: Freenom Renewal Service
     url: $FREENOM_RENEWAL_SERVICE
   - name: Rendered Bless Service V1
