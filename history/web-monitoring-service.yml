@@ -1,7 +1,7 @@
 url: $WEB_MONITORING_SERVICE/api/v1/systeminfo
-status: down
-code: 502
-responseTime: 210
-lastUpdated: 2024-08-23T15:55:51.331Z
+status: up
+code: 200
+responseTime: 1228
+lastUpdated: 2024-08-23T16:18:17.242Z
 startTime: 2023-11-27T12:22:48.837Z
 generator: Upptime <https://github.com/upptime/upptime>
