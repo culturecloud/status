@@ -26,7 +26,10 @@ sites:
     url: $WEB_MONITORING_SERVICE/api/v1/systeminfo
     headers:
       - "x-api-key: $API_KEY_WEB_MONITORING_SERVICE"
-    maxResponseTime: 120000
+    maxResponseTime: 60000
+  - name: Filebrowser ⚡ (pseudo-kawaii)
+    url: $FILEBROWSER_LITNG_PSEUDO_KAWAII
+    maxResponseTime: 60000
   - name: Freenom Renewal Service
     url: $FREENOM_RENEWAL_SERVICE
   - name: Rendered Bless Service V1
