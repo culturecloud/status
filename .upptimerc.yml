@@ -16,26 +16,31 @@ sites:
     url: $OD_DDL_SERVICE_2
   - name: GDrive DDL Service
     url: $GD_DDL_SERVICE
-  - name: Rclone (Multi Cloud) DDL Service
+  - name: Multi Cloud (Rclone) DDL Service
     url: $RC_DDL_SERVICE
     headers:
       - "authorization: Basic $BASIC_AUTH_TOKEN"
   - name: Image Proxy Service
     url: $IMAGE_PROXY_SERVICE
-  - name: Web Monitoring Service
+  - name: Web Monitoring Service ⚡
     url: $WEB_MONITORING_SERVICE/api/v1/systeminfo
     headers:
       - "x-api-key: $API_KEY_WEB_MONITORING_SERVICE"
     maxResponseTime: 60000
+  - name: Filebrowser ⚡ (iafuad)
+    url: $FILEBROWSER_LITNG_IAFUAD
+    maxResponseTime: 60000
   - name: Filebrowser ⚡ (pseudo-kawaii)
     url: $FILEBROWSER_LITNG_PSEUDO_KAWAII
     maxResponseTime: 60000
-  - name: Freenom Renewal Service
-    url: $FREENOM_RENEWAL_SERVICE
-  - name: Rendered Bless Service V1
-    url: $RENDERED_BLESS_SERVICE_V1
-  - name: Rendered Bless Service V2 (Chrome)
-    url: $RENDERED_BLESS_SERVICE_V2_CHROME
+  - name: qBittorrent ⚡
+    url: $QBITTORRENT_LITNG
+  - name: Jackett ⚡
+    url: $JACKETT_LITNG
+  - name: Duplicati ⚡ (iafuad)
+    url: $DUPLICATI_LITNG_IAFUAD
+  - name: Duplicati ⚡ (pseudo-kawaii)
+    url: $DUPLICATI_LITNG_PSEUDO_KAWAII
   
 workflowSchedule:
   uptime: "*/5 * * * *"
