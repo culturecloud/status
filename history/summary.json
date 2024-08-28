@@ -489,18 +489,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jackett",
     "status": "down",
-    "uptime": "3.95%",
-    "uptimeDay": "3.95%",
-    "uptimeWeek": "3.95%",
-    "uptimeMonth": "3.95%",
-    "uptimeYear": "3.95%",
+    "uptime": "3.88%",
+    "uptimeDay": "3.88%",
+    "uptimeWeek": "3.88%",
+    "uptimeMonth": "3.88%",
+    "uptimeYear": "3.88%",
     "time": 770,
     "timeDay": 770,
     "timeWeek": 770,
     "timeMonth": 770,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2024-08-28": 0
+      "2024-08-28": 1
     }
   },
   {
@@ -520,7 +520,7 @@
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2024-08-28": 0
+      "2024-08-28": 1
     }
   },
   {
