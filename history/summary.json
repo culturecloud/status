@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "telegram-ddl-service",
     "status": "up",
-    "uptime": "81.64%",
+    "uptime": "81.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.41%",
-    "uptimeYear": "81.64%",
+    "uptimeMonth": "78.44%",
+    "uptimeYear": "81.65%",
     "time": 863,
     "timeDay": 394,
     "timeWeek": 384,
@@ -235,11 +235,11 @@
     "uptime": "42.54%",
     "uptimeDay": "98.48%",
     "uptimeWeek": "86.33%",
-    "uptimeMonth": "74.42%",
+    "uptimeMonth": "74.45%",
     "uptimeYear": "42.54%",
     "time": 962,
     "timeDay": 636,
-    "timeWeek": 908,
+    "timeWeek": 916,
     "timeMonth": 1294,
     "timeYear": 962,
     "dailyMinutesDown": {
@@ -471,19 +471,19 @@
     "url": "$QBITTORRENT_LITNG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "q-bittorrent",
-    "status": "down",
-    "uptime": "96.25%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "96.25%",
-    "uptimeYear": "96.25%",
-    "time": 771,
-    "timeDay": 771,
-    "timeWeek": 771,
-    "timeMonth": 771,
-    "timeYear": 771,
+    "status": "up",
+    "uptime": "95.24%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "95.24%",
+    "uptimeYear": "95.24%",
+    "time": 739,
+    "timeDay": 739,
+    "timeWeek": 739,
+    "timeMonth": 739,
+    "timeYear": 739,
     "dailyMinutesDown": {
-      "2024-08-29": 50
+      "2024-08-29": 64
     }
   },
   {
@@ -503,7 +503,7 @@
     "timeMonth": 604,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2024-08-29": 987,
+      "2024-08-29": 1002,
       "2024-08-28": 355
     }
   },
@@ -524,7 +524,7 @@
     "timeMonth": 898,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2024-08-29": 987,
+      "2024-08-29": 1002,
       "2024-08-28": 355
     }
   },
@@ -533,19 +533,19 @@
     "url": "$DUPLICATI_LITNG_PSEUDO_KAWAII",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "duplicati-pseudo-kawaii",
-    "status": "down",
-    "uptime": "96.28%",
-    "uptimeDay": "96.28%",
-    "uptimeWeek": "96.28%",
-    "uptimeMonth": "96.28%",
-    "uptimeYear": "96.28%",
-    "time": 805,
-    "timeDay": 805,
-    "timeWeek": 805,
-    "timeMonth": 805,
-    "timeYear": 805,
+    "status": "up",
+    "uptime": "95.27%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "95.27%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "95.27%",
+    "time": 764,
+    "timeDay": 764,
+    "timeWeek": 764,
+    "timeMonth": 764,
+    "timeYear": 764,
     "dailyMinutesDown": {
-      "2024-08-29": 49
+      "2024-08-29": 64
     }
   }
 ]
