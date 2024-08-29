@@ -44,7 +44,7 @@
     "uptime": "81.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "77.24%",
+    "uptimeMonth": "77.29%",
     "uptimeYear": "81.62%",
     "time": 863,
     "timeDay": 394,
@@ -234,12 +234,12 @@
     "status": "up",
     "uptime": "42.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.52%",
-    "uptimeMonth": "73.30%",
+    "uptimeWeek": "85.70%",
+    "uptimeMonth": "73.35%",
     "uptimeYear": "42.47%",
     "time": 962,
     "timeDay": 460,
-    "timeWeek": 848,
+    "timeWeek": 856,
     "timeMonth": 1303,
     "timeYear": 962,
     "dailyMinutesDown": {
@@ -450,11 +450,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "filebrowser-pseudo-kawaii",
     "status": "up",
-    "uptime": "98.69%",
+    "uptime": "98.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.69%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
     "time": 2117,
     "timeDay": 349,
     "timeWeek": 2117,
@@ -470,19 +470,19 @@
     "url": "$QBITTORRENT_LITNG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "q-bittorrent",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 686,
-    "timeDay": 686,
-    "timeWeek": 686,
-    "timeMonth": 686,
-    "timeYear": 686,
+    "status": "up",
+    "uptime": "97.60%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "97.60%",
+    "time": 638,
+    "timeDay": 638,
+    "timeWeek": 638,
+    "timeMonth": 638,
+    "timeYear": 638,
     "dailyMinutesDown": {
-      "2024-08-29": 1
+      "2024-08-29": 20
     }
   },
   {
@@ -502,7 +502,7 @@
     "timeMonth": 604,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2024-08-29": 475,
+      "2024-08-29": 496,
       "2024-08-28": 355
     }
   },
@@ -523,7 +523,7 @@
     "timeMonth": 898,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2024-08-29": 475,
+      "2024-08-29": 496,
       "2024-08-28": 355
     }
   },
@@ -532,19 +532,19 @@
     "url": "$DUPLICATI_LITNG_PSEUDO_KAWAII",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "duplicati-pseudo-kawaii",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 736,
-    "timeDay": 736,
-    "timeWeek": 736,
-    "timeMonth": 736,
-    "timeYear": 736,
+    "status": "up",
+    "uptime": "97.61%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "97.61%",
+    "uptimeYear": "97.61%",
+    "time": 680,
+    "timeDay": 680,
+    "timeWeek": 680,
+    "timeMonth": 680,
+    "timeYear": 680,
     "dailyMinutesDown": {
-      "2024-08-29": 0
+      "2024-08-29": 20
     }
   }
 ]
