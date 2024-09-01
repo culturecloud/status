@@ -22,6 +22,8 @@ sites:
       - "authorization: Basic $BASIC_AUTH_TOKEN"
   - name: Image Proxy Service
     url: $IMAGE_PROXY_SERVICE
+  - name: Pixiv Frontend
+    url: https://pixiv.culturecloud.eu.org
   - name: Web Monitoring Service ⚡
     url: $WEB_MONITORING_SERVICE/api/v1/systeminfo
     headers:
