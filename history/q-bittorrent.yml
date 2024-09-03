@@ -1,7 +1,7 @@
 url: $QBITTORRENT_LITNG
-status: up
-code: 200
-responseTime: 265
-lastUpdated: 2024-09-02T23:21:39.726Z
+status: down
+code: 500
+responseTime: 1589
+lastUpdated: 2024-09-03T01:39:21.308Z
 startTime: 2024-08-28T18:04:56.821Z
 generator: Upptime <https://github.com/upptime/upptime>
