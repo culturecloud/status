@@ -1,7 +1,7 @@
 url: $DUPLICATI_LITNG_PSEUDO_KAWAII
-status: down
-code: 500
-responseTime: 1115
-lastUpdated: 2024-09-04T03:26:38.111Z
+status: up
+code: 200
+responseTime: 265
+lastUpdated: 2024-09-04T03:36:53.136Z
 startTime: 2024-08-28T18:05:04.562Z
 generator: Upptime <https://github.com/upptime/upptime>
