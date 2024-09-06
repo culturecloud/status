@@ -1,7 +1,7 @@
 url: $DUPLICATI_LITNG_IAFUAD
-status: up
-code: 200
-responseTime: 421
-lastUpdated: 2024-09-06T07:25:18.902Z
+status: down
+code: 502
+responseTime: 1828
+lastUpdated: 2024-09-06T11:15:47.394Z
 startTime: 2024-08-28T18:05:01.811Z
 generator: Upptime <https://github.com/upptime/upptime>
