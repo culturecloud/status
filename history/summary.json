@@ -195,7 +195,7 @@
     "timeMonth": 498,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2024-09-07": 350,
+      "2024-09-07": 351,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -514,7 +514,7 @@
     "slug": "q-bittorrent",
     "status": "up",
     "uptime": "62.54%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "0.03%",
     "uptimeWeek": "50.76%",
     "uptimeMonth": "62.54%",
     "uptimeYear": "62.54%",
