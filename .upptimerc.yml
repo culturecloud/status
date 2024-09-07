@@ -25,7 +25,7 @@ sites:
   - name: Pixiv Frontend
     url: https://pixiv.culturecloud.eu.org
   - name: Web Monitoring Service ⚡
-    url: $WEB_MONITORING_SERVICE/api/v1/systeminfo
+    url: https://monitor.culturecloud.eu.org/api/v1/systeminfo
     headers:
       - "x-api-key: $API_KEY_WEB_MONITORING_SERVICE"
     maxResponseTime: 60000
@@ -36,13 +36,11 @@ sites:
     url: $FILEBROWSER_LITNG_PSEUDO_KAWAII
     maxResponseTime: 60000
   - name: qBittorrent ⚡
-    url: $QBITTORRENT_LITNG
+    url: https://qbt.culturecloud.eu.org
   - name: Jackett ⚡
-    url: $JACKETT_LITNG
-  - name: Duplicati ⚡ (iafuad)
-    url: $DUPLICATI_LITNG_IAFUAD
-  - name: Duplicati ⚡ (pseudo-kawaii)
-    url: $DUPLICATI_LITNG_PSEUDO_KAWAII
+    url: https://jackett.culturecloud.eu.org
+  - name: Duplicati ⚡
+    url: https://duplicati.culturecloud.eu.org
   
 workflowSchedule:
   uptime: "*/5 * * * *"
