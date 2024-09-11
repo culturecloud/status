@@ -1,7 +1,7 @@
 url: https://duplicati.culturecloud.eu.org
-status: down
-code: 500
-responseTime: 82
-lastUpdated: 2024-09-11T21:01:42.587Z
+status: up
+code: 200
+responseTime: 349
+lastUpdated: 2024-09-11T21:40:28.704Z
 startTime: 2024-09-07T05:50:19.310Z
 generator: Upptime <https://github.com/upptime/upptime>
