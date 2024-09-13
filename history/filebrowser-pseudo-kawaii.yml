@@ -1,7 +1,7 @@
 url: $FILEBROWSER_LITNG_PSEUDO_KAWAII
-status: up
-code: 200
-responseTime: 265
-lastUpdated: 2024-09-12T23:23:35.409Z
+status: down
+code: 502
+responseTime: 1324
+lastUpdated: 2024-09-13T13:33:57.792Z
 startTime: 2024-08-26T00:44:41.509Z
 generator: Upptime <https://github.com/upptime/upptime>
