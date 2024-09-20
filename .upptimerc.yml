@@ -10,18 +10,18 @@ sites:
   - name: Telegram DDL Service
     url: $TG_DDL_SERVICE
     maxResponseTime: 60000
-  - name: OneDrive DDL Service
-    url: $OD_DDL_SERVICE_1
-  - name: OneDrive DDL Service 2
-    url: $OD_DDL_SERVICE_2
+  - name: OneDrive DDL Service (Nihon)
+    url: https://nihon.culturecloud.eu.org
+  - name: OneDrive DDL Service (Usonia)
+    url: https://usonia.culturecloud.eu.org
   - name: GDrive DDL Service
-    url: $GD_DDL_SERVICE
+    url: https://gdi.culturecloud.eu.org
   - name: Multi Cloud (Rclone) DDL Service
-    url: $RC_DDL_SERVICE
+    url: https://rci.culturecloud.eu.org
     headers:
       - "authorization: Basic $BASIC_AUTH_TOKEN"
   - name: Image Proxy Service
-    url: $IMAGE_PROXY_SERVICE
+    url: https://images.culturecloud.eu.org
   - name: Pixiv Frontend
     url: https://pixiv.culturecloud.eu.org
   - name: Web Monitoring Service ⚡
@@ -29,18 +29,18 @@ sites:
     headers:
       - "x-api-key: $API_KEY_WEB_MONITORING_SERVICE"
     maxResponseTime: 60000
-  - name: Filebrowser ⚡ (iafuad)
-    url: $FILEBROWSER_LITNG_IAFUAD
-    maxResponseTime: 60000
-  - name: Filebrowser ⚡ (pseudo-kawaii)
-    url: $FILEBROWSER_LITNG_PSEUDO_KAWAII
-    maxResponseTime: 60000
   - name: qBittorrent ⚡
     url: https://qbt.culturecloud.eu.org
   - name: Jackett ⚡
     url: https://jackett.culturecloud.eu.org
   - name: Duplicati ⚡
     url: https://duplicati.culturecloud.eu.org
+  - name: Filebrowser ⚡ (iafuad)
+    url: $FILEBROWSER_LITNG_IAFUAD
+    maxResponseTime: 60000
+  - name: Filebrowser ⚡ (pseudo-kawaii)
+    url: $FILEBROWSER_LITNG_PSEUDO_KAWAII
+    maxResponseTime: 60000
   
 workflowSchedule:
   uptime: "*/5 * * * *"
