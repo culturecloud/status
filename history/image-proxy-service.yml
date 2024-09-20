@@ -1,7 +1,7 @@
-url: $IMAGE_PROXY_SERVICE
+url: https://images.culturecloud.eu.org
 status: up
 code: 200
-responseTime: 4554
-lastUpdated: 2024-09-19T23:22:16.234Z
+responseTime: 773
+lastUpdated: 2024-09-20T14:45:38.904Z
 startTime: 2023-03-28T15:19:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
