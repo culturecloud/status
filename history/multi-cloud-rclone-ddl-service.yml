@@ -1,7 +1,7 @@
-url: $RC_DDL_SERVICE
+url: https://rci.culturecloud.eu.org
 status: down
 code: 503
-responseTime: 772
-lastUpdated: 2024-09-19T23:22:11.503Z
+responseTime: 371
+lastUpdated: 2024-09-20T14:45:37.939Z
 startTime: 2024-08-28T18:04:53.605Z
 generator: Upptime <https://github.com/upptime/upptime>
