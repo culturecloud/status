@@ -1,7 +1,7 @@
 url: https://jackett.culturecloud.eu.org
 status: down
-code: 530
-responseTime: 84
-lastUpdated: 2024-09-19T23:23:02.637Z
+code: 400
+responseTime: 300
+lastUpdated: 2024-09-20T14:45:41.406Z
 startTime: 2024-08-28T18:04:57.462Z
 generator: Upptime <https://github.com/upptime/upptime>
