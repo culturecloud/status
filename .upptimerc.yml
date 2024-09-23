@@ -9,7 +9,6 @@ sites:
     url: https://status.culturecloud.eu.org
   - name: Telegram DDL Service
     url: $TG_DDL_SERVICE
-    maxResponseTime: 60000
   - name: OneDrive DDL Service (Nihon)
     url: https://nihon.culturecloud.eu.org
   - name: OneDrive DDL Service (Usonia)
