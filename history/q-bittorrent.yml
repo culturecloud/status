@@ -1,7 +1,7 @@
 url: https://qbt.culturecloud.eu.org
-status: up
-code: 200
-responseTime: 258
-lastUpdated: 2024-10-02T23:14:47.415Z
+status: down
+code: 500
+responseTime: 59
+lastUpdated: 2024-10-03T01:50:09.407Z
 startTime: 2024-08-28T18:04:56.821Z
 generator: Upptime <https://github.com/upptime/upptime>
