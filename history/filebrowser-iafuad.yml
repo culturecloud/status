@@ -1,7 +1,7 @@
 url: $FILEBROWSER_LITNG_IAFUAD
-status: down
-code: 500
-responseTime: 24393
-lastUpdated: 2024-11-20T21:50:01.937Z
+status: up
+code: 200
+responseTime: 672
+lastUpdated: 2024-11-20T21:58:41.893Z
 startTime: 2024-08-28T18:04:55.480Z
 generator: Upptime <https://github.com/upptime/upptime>
