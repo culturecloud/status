@@ -1,7 +1,7 @@
 url: https://monitor.culturecloud.eu.org/api/v1/systeminfo
-status: down
-code: 530
-responseTime: 83
-lastUpdated: 2024-12-06T17:33:28.634Z
+status: up
+code: 200
+responseTime: 85
+lastUpdated: 2024-12-06T17:54:29.182Z
 startTime: 2023-11-27T12:22:48.837Z
 generator: Upptime <https://github.com/upptime/upptime>
