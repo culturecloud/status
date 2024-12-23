@@ -5,35 +5,58 @@ user-agent: culturecloud
 sites:
   - name: Official Blog
     url: https://culturecloud.eu.org
+    headers:
+      - "User-Agent: status.culturecloud.eu.org"
   - name: Official Status Page
     url: https://status.culturecloud.eu.org
+    headers:
+      - "User-Agent: status.culturecloud.eu.org"
   - name: Telegram DDL Service
     url: $TG_DDL_SERVICE
+    headers:
+      - "User-Agent: status.culturecloud.eu.org"
   - name: OneDrive DDL Service (Nihon)
     url: https://nihon.culturecloud.eu.org
+    headers:
+      - "User-Agent: status.culturecloud.eu.org"
   - name: OneDrive DDL Service (Usonia)
     url: https://usonia.culturecloud.eu.org
+    headers:
+      - "User-Agent: status.culturecloud.eu.org"
   - name: GDrive DDL Service
     url: https://gdi.culturecloud.eu.org
+    headers:
+      - "User-Agent: status.culturecloud.eu.org"
   - name: Multi Cloud (Rclone) DDL Service
     url: https://rci.culturecloud.eu.org
     headers:
       - "authorization: Basic $BASIC_AUTH_TOKEN"
   - name: Image Proxy Service
     url: https://images.culturecloud.eu.org
+    headers:
+      - "User-Agent: status.culturecloud.eu.org"
   - name: Pixiv Frontend
     url: https://pixiv.culturecloud.eu.org
+    headers:
+      - "User-Agent: status.culturecloud.eu.org"
   - name: Web Monitoring Service ⚡
     url: https://monitor.culturecloud.eu.org/api/v1/systeminfo
     headers:
       - "x-api-key: $API_KEY_WEB_MONITORING_SERVICE"
+      - "User-Agent: status.culturecloud.eu.org"
     maxResponseTime: 60000
   - name: qBittorrent ⚡
     url: https://qbt.culturecloud.eu.org
+    headers:
+      - "User-Agent: status.culturecloud.eu.org"
   - name: Jackett ⚡
     url: https://jackett.culturecloud.eu.org
+    headers:
+      - "User-Agent: status.culturecloud.eu.org"
   - name: Duplicati ⚡
     url: https://duplicati.culturecloud.eu.org
+    headers:
+      - "User-Agent: status.culturecloud.eu.org"
   - name: Filebrowser ⚡ (iafuad)
     url: $FILEBROWSER_LITNG_IAFUAD
     maxResponseTime: 60000
