@@ -305,7 +305,7 @@
     "timeMonth": 212,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-04-15": 233,
+      "2025-04-15": 254,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -561,9 +561,9 @@
     "url": "https://pixiv.culturecloud.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/pixiv.culturecloud.eu.org.ico",
     "slug": "pixiv-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "97.34%",
+    "uptimeDay": "97.32%",
     "uptimeWeek": "98.81%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "98.44%",
@@ -635,8 +635,7 @@
       "2024-11-27": 71,
       "2024-11-26": 147,
       "2024-11-25": 9,
-      "2024-11-24": 50,
-      "2024-11-23": 15
+      "2024-11-24": 50
     }
   },
   {
@@ -647,8 +646,8 @@
     "status": "up",
     "uptime": "81.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.49%",
-    "uptimeMonth": "5.34%",
+    "uptimeWeek": "31.69%",
+    "uptimeMonth": "5.39%",
     "uptimeYear": "74.46%",
     "time": 540,
     "timeDay": 201,
@@ -794,7 +793,7 @@
     "timeMonth": 511,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2025-04-15": 233,
+      "2025-04-15": 254,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -948,7 +947,7 @@
     "timeMonth": 158,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-04-15": 233,
+      "2025-04-15": 254,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -1189,8 +1188,8 @@
     "status": "up",
     "uptime": "47.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.98%",
-    "uptimeMonth": "5.45%",
+    "uptimeWeek": "32.18%",
+    "uptimeMonth": "5.50%",
     "uptimeYear": "47.35%",
     "time": 313,
     "timeDay": 110,
@@ -1350,7 +1349,7 @@
     "timeMonth": 218,
     "timeYear": 2606,
     "dailyMinutesDown": {
-      "2025-04-15": 233,
+      "2025-04-15": 254,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
@@ -1531,7 +1530,7 @@
     "timeMonth": 3912,
     "timeYear": 3618,
     "dailyMinutesDown": {
-      "2025-04-15": 233,
+      "2025-04-15": 254,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
