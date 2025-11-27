@@ -1,7 +1,7 @@
 url: $TG_DDL_SERVICE
-status: up
-code: 200
-responseTime: 330
-lastUpdated: 2025-11-26T23:16:24.223Z
+status: down
+code: 404
+responseTime: 209
+lastUpdated: 2025-11-27T12:57:28.976Z
 startTime: 2023-11-27T12:22:43.914Z
 generator: Upptime <https://github.com/upptime/upptime>
